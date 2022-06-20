@@ -43,7 +43,7 @@ const Contact = () => {
                 <p>Blockchain  Developer</p>
                 <p className='py-4'>
                   I am available for freelance or full-time positions. Contact
-                  me and let's talk.
+                  me and let&apos;s talk.
                 </p>
               </div>
               <div>
@@ -51,13 +51,13 @@ const Contact = () => {
                 <div className='flex items-center justify-between py-4'>
                   <a
                     href='https://www.linkedin.com/in/shabbiryk/'
-                    target='_blank'
+                    
                   >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaLinkedinIn />
                     </div>
                   </a>
-                  <a href='https://github.com/shabbiryk' target='_blank'>
+                  <a href='https://github.com/shabbiryk' >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaGithub />
                     </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import myphotu from '../public/assets/myphotu.jpg';
 
 
 const About = () => {
@@ -39,9 +40,7 @@ const About = () => {
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
         <Image
-                  src='/../public/assets/myphotu.jpg'
-                  width='450px'
-                  height='500px'
+                  src={myphotu}
                   alt='/'
                 />
         </div>

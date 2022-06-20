@@ -1,5 +1,13 @@
 import Image from 'next/image';
 import React from 'react';
+import rust_logo from '../public/assets/skills/rust_logo.png'
+import js_logo from '../public/assets/skills/javascript.png'
+import solidity_logo from '../public/assets/skills/solidity_logo.png'
+import contracts_logo from '../public/assets/skills/contract.png'
+import python_logo from '../public/assets/skills/python.png'
+import freelancer_logo from '../public/assets/skills/freelancer.png'
+import cloud_como_logo from '../public/assets/skills/Cloud_comp.png'
+import reactjs_logo from '../public/assets/skills/react.png'
 
 const Skills = () => {
   return (
@@ -15,7 +23,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/solidity_logo.png'
+                  src={solidity_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -30,7 +38,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/rust_logo.png'
+                  src={rust_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -45,7 +53,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/javascript.png'
+                  src={js_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -60,7 +68,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/contract.png'
+                  src={contracts_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -75,7 +83,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/python.png'
+                  src={python_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -90,7 +98,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/freelancer.png'
+                  src={freelancer_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -105,7 +113,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/Cloud_comp.png'
+                  src={cloud_como_logo}
                   width='64px'
                   height='64px'
                   alt='/'
@@ -120,7 +128,7 @@ const Skills = () => {
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
                 <Image
-                  src='/../public/assets/skills/react.png'
+                  src={reactjs_logo}
                   width='64px'
                   height='64px'
                   alt='/'

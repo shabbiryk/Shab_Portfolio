@@ -6,7 +6,6 @@ import solidity_logo from '../public/assets/skills/solidity_logo.png'
 import contracts_logo from '../public/assets/skills/contract.png'
 import python_logo from '../public/assets/skills/python.png'
 import freelancer_logo from '../public/assets/skills/freelancer.png'
-import cloud_como_logo from '../public/assets/skills/cloud_comp.png'
 import reactjs_logo from '../public/assets/skills/react.png'
 
 const Skills = () => {

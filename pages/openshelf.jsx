@@ -73,8 +73,8 @@ If readers want to save books for future reads, they can still generate revenue 
 <ul>
   <li>-Renting Books using Superfluid CFA</li>
   <li>-Support for revenue distribution using Superfluid IDA</li>
-  <li>-Author's dashboard and profile</li>
-  <li>-Searching and Filtering for Books & Authors</li>
+  <li>-Author&apos;s dashboard and profile</li>
+  <li>-Searching and Filtering for Books and Authors</li>
 
 </ul>
 </div>

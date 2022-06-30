@@ -19,7 +19,7 @@ const About = () => {
           <p className='py-2 text-gray-600'>
           An experienced Full Stack Developer with a history of working in the Financial Services industry. 
 Competent in React Js/Next JS, Kubernetes (Certified Kubernetes application developer), Docker, Azure, AWS and blockchain (Hyperledger Fabric). Engineering professional with a BTech in Computer Science and Engineering Specialization in Cloud Computing from Pune University.
-Solidity and rust are two of my strongest areas. I've worked on projects across public blockchains. Specifically, Solana, Ethereum, and Substrate.
+Solidity and rust are two of my strongest areas. I&apos;ve worked on projects across public blockchains. Specifically, Solana, Ethereum, and Substrate.
 Currently, I am fascinated by blockchain technologies and interested in solutions to consensus problems for crypto project
           </p>
           <p className='py-2 text-gray-600'>

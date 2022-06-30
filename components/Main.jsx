@@ -17,10 +17,10 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-700'>A Blockchain Developer</h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-            I’m a Blockchain developer specializing in building (and
-            occasionally designing) exceptional digital experiences. Currently,
-            I’m focused on building responsive front-end web applications while
-            learning back-end technologies.
+          <span > I am a social geek interested in building and managing communities. Fast learner and adaptable to different project environments. Team player, but can also work solo.</span>
+          <span> </span>
+          <span>Currently,I’m focused on building responsive front-end web applications while
+            learning back-end technologies</span>.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
@@ -29,7 +29,7 @@ const Main = () => {
             >
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaLinkedinIn />
-              </div>
+              </div> 
             </a>
             <a href='https://github.com/shabbiryk' >
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
@@ -41,7 +41,7 @@ const Main = () => {
                 <AiOutlineMail />
               </div>
             </Link>
-            <Link href='/resume'>
+            <Link href=''>
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <BsFillPersonLinesFill />
               </div>

@@ -58,8 +58,8 @@ const Navbar = () => {
           <Image
             src={my_logo}
             alt='/'
-            width='150' 
-            height='80'
+            width='120' 
+            height='120'
             
             className='cursor-pointer'
           />
@@ -80,7 +80,7 @@ const Navbar = () => {
                 Projects
               </li>
             </Link>
-            {/* <Link href="/resume">
+            {/* <Link href="">
             <li className='ml-10 text-sm uppercase hover:border-b'>
                 Resume
               </li>
@@ -122,8 +122,8 @@ const Navbar = () => {
               <Link href='/'>
                 <Image
                   src={my_logo}
-                  width='87'
-                  height='35'
+                  width='100'
+                  height='100'
                   alt='/'
                 />
               </Link>
@@ -194,7 +194,7 @@ const Navbar = () => {
                     <AiOutlineMail />
                   </div>
                 </Link>
-                <Link href='/resume'>
+                <Link href=''>
                   <div onClick={()=>setNav(!nav)} className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                     <BsFillPersonLinesFill />
                   </div>

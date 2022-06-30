@@ -19,6 +19,18 @@ const property = () => {
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'> VidShield - A Creator platform with Video NFT and Piracy protection</h2>
           <h3>Polygon / Alchemy / Livepeer API</h3>
+          <Link rel="stylesheet" href="https://vidshield-3eb7ob.argoapp.io/#/" >
+        <a target="_blank">
+        <button className='px-8 py-2 mt-4 mr-8'>Website</button>
+        </a>
+       
+        </Link>
+        <Link rel="stylesheet" href="https://youtu.be/r4jMyfL4ZQI" >
+        <a target="_blank">
+        <button className='px-8 py-2 mt-4 mr-8'>Walkthrough</button>
+        </a>
+       
+        </Link>
         </div>
       </div>
 
@@ -84,18 +96,7 @@ Last but not the least, I have put my heart and soul in this project so that I c
 
 *Note:- First, Alchemy NFT API is called, if URI error from them, then only Moralis NFT API is called. <br />
           </p>
-        <Link rel="stylesheet" href="https://vidshield-3eb7ob.argoapp.io/#/" >
-        <a target="_blank">
-        <button className='px-8 py-2 mt-4 mr-8'>Website</button>
-        </a>
-       
-        </Link>
-        <Link rel="stylesheet" href="https://youtu.be/r4jMyfL4ZQI" >
-        <a target="_blank">
-        <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
-        </a>
-       
-        </Link>
+        
           {/* <button className='px-8 py-2 mt-4'>Code</button> */}
         </div>
         <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>

@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import VidshieldImg from '../public/assets/Vidshield.PNG';
-import cryptoImg from '../public/assets/projects/crypto.jpg'
+import openshelfImg from '../public/assets/projects/openshelf.png'
 import netflixImg from '../public/assets/projects/netflix.jpg'
 import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
@@ -22,9 +22,9 @@ const Projects = () => {
             projectUrl='/VidShield'
           />
           <ProjectItem
-            title='Crypto App'
-            backgroundImg={cryptoImg}
-            projectUrl='/crypto'
+            title='OpenShelf | OpenDesk'
+            backgroundImg={openshelfImg}
+            projectUrl='/openshelf'
           />
           {/* <ProjectItem
             title='Netflix App'

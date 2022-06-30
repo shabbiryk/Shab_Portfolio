@@ -13,16 +13,14 @@ const About = () => {
             About
           </p>
           <h2 className='py-4'>Who I Am</h2>
-          <p className='py-2 text-gray-600'>
+          {/* <p className='py-2 text-gray-600'>
              I am not your average developer
-          </p>
+          </p> */}
           <p className='py-2 text-gray-600'>
-            I have spent the last 12 years in the fire service working as a
-            professional firefighter & paramedic. I have always had a knack for
-            technology and working with computers. In 2019 I started working
-            with HTML & CSS to make some minor edits on a small business website
-            that I was operating. What I thought was just a few small edits
-            turned into a love for programming.
+          An experienced Full Stack Developer with a history of working in the Financial Services industry. 
+Competent in React Js/Next JS, Kubernetes (Certified Kubernetes application developer), Docker, Azure, AWS and blockchain (Hyperledger Fabric). Engineering professional with a BTech in Computer Science and Engineering Specialization in Cloud Computing from Pune University.
+Solidity and rust are two of my strongest areas. I've worked on projects across public blockchains. Specifically, Solana, Ethereum, and Substrate.
+Currently, I am fascinated by blockchain technologies and interested in solutions to consensus problems for crypto project
           </p>
           <p className='py-2 text-gray-600'>
             Fascinated with how intricate programming can be I was quickly drawn

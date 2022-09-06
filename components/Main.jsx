@@ -13,14 +13,13 @@ const Main = () => {
             LET&apos;S BUILD SOMETHING TOGETHER
           </p>
           <h1 className='py-4 text-gray-700'>
-            Hi, I&apos;m <span className='text-[#5651e5]'> Shabbir</span>
+            Hi, I&apos;m <span className='text-[#005071]'> Shabbir</span>
           </h1>
           <h1 className='py-2 text-gray-700'>A Blockchain Developer</h1>
           <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-          <span > I am a social geek interested in building and managing communities. Fast learner and adaptable to different project environments. Team player, but can also work solo.</span>
+          <span > I'm a finance geek interested in building and managing communities. Fast learner and adaptable to different project environments.</span>
           <span> </span>
-          <span>Currently,I’m focused on building responsive front-end web applications while
-            learning back-end technologies</span>.
+          <span>Currently,I’m focused on building responsive front-end web applications while writing smart contracts/canisters</span>.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a

@@ -1,10 +1,9 @@
 import Image from 'next/image';
 import React from 'react';
-import openshelfImg from '../public/assets/projects/openshelf.png'
+import BAImg from '../public/assets/projects/bookauth.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
-
-const openshelf = () => {
+const BookAuth = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[30vh] lg:h-[40vh] relative'>
@@ -13,15 +12,15 @@ const openshelf = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={openshelfImg}
+          src={BAImg}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>OpenShelf | OpenDesk</h2>
+          <h2 className='py-2'></h2>
           <h3>Polygon/ IPFS/ Superfluid</h3>
           <Link href='https://openstore.cf/'><button className='px-8 py-2 mt-4 mr-8'>Visit</button></Link>
           
-          <Link href='https://github.com/OpenShelf-OpenDesk/ebook-marketplace'><button className='px-8 py-2 mt-4'>Code</button></Link>
+          <Link href='https://github.com/shabbiryk/BookAuth'><button className='px-8 py-2 mt-4'>Code</button></Link>
         </div>
       </div>
 
@@ -115,4 +114,4 @@ If readers want to save books for future reads, they can still generate revenue 
   );
 };
 
-export default openshelf;
+export default BookAuth;

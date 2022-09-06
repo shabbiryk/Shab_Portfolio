@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import VidShieldImg from '../public/assets/projects/VidShield.PNG';
+import VidShieldImg from '../public/assets/projects/Vidshield.PNG';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 

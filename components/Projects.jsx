@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import FempureImg from '../public/assets/Fempure.PNG';
-import VidshieldImg from '../public/assets/Vidshield.PNG';
+import FempureImg from '../public/assets/projects/Fempure.png'
+import VidshieldImg from '../public/assets/projects/Vidshield.PNG'
 import BAImg from '../public/assets/projects/bookauth.png'
 import TYTImg from '../public/assets/projects/TTY.png'
 import DDWImg from '../public/assets/projects/ddw.png'
@@ -53,7 +53,7 @@ const Projects = () => {
           <ProjectItem
             title='BookAuth'
             backgroundImg={BAImg}
-            projectUrl='/openshelf'
+            projectUrl='/BookAuth'
           />
           {/* <ProjectItem
             title='Netflix App'

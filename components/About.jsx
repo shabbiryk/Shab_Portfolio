@@ -17,12 +17,16 @@ const About = () => {
              I am not your average developer
           </p> */}
           <p className='py-2 text-gray-600'>
-           -Co-founder at <span className='tracking-widest text-[#5651e5]'><a href="https://www.dreamdateworld.com/">Dream Date World</a></span>, an immersive cross-chain dating metaverse. 
-          <br /> -An experienced Full Stack Developer with a history of working in the Financial Services industry.
-           <br /> -Competent in React Js/Next JS, Kubernetes (Certified Kubernetes application developer), Docker, Azure, AWS and blockchain (Hyperledger Fabric).
-           <br />-Engineering professional with a BTech in Computer Science and Engineering Specialization in Cloud Computing from Pune University.
+          
+           -Co-founded <span className='tracking-widest text-[#5651e5]'><a href="https://www.dreamdateworld.com/">Dream Date World</a></span>, an immersive cross-chain dating metaverse. 
+           <br /> -Been in crypto for over 3 years now, closed 7 partnerships with  web3 protocols as of March 2023.
+           <br /> -Community person at Chainlink, organized 20+ meetups in Pune/Mumbai region
+           <br />  -Spoke on 7-panel discussions, and talked about Oracles, DeSci and ZK commitments at Eth conferences.
+          <br /> -An experienced Full Stack Developer with a history of working in the Financial Service Industry.
+           <br /> -Competent in React Js/Next JS, Kubernetes (Certified Kubernetes application developer), Docker, <br /> &nbsp;  Azure, AWS and blockchain (Hyperledger Fabric).
+           <br />-BTech in Computer Science and Engineering Specialization in Cloud Computing from Pune University.
            <br />-Hyperledger Fabrics and Zero Knowledge tech (zk-Snarks/Starks) are two of my strongest areas.
-           <br /> -I&apos;ve worked on projects across public blockchains epecifically involving chains as Solana, Ethereum and Substrates.
+           <br /> -Worked on projects across public blockchains such as Solana, Ethereum, Aptos and Substrates.
            <br />Currently, I am fascinated by blockchain technologies and interested in solutions to consensus problems for crypto project
           </p>
           <p className='py-2 text-gray-600'>

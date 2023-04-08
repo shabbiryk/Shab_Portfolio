@@ -6,6 +6,7 @@ import VidshieldImg from '../public/assets/projects/Vidshield.PNG'
 import BAImg from '../public/assets/projects/bookauth.png'
 import TYTImg from '../public/assets/projects/TTY.png'
 import DDWImg from '../public/assets/projects/ddw.png'
+import PEHT from '../public/assets/projects/PEHT.png'
 import FFImg from '../public/assets/projects/FF.gif'
 import LTImg from '../public/assets/projects/LTImg.png'
 import MoonShotImg from '../public/assets/projects/MSImg.png'
@@ -47,8 +48,8 @@ const Projects = () => {
           />
            <ProjectItem
             title='Private_EHT'
-            backgroundImg={DDWImg}
-            projectUrl='https://github.com/shabbiryk/Private_EHT/tree/main/ehrBlockchain'
+            backgroundImg={PEHT}
+            projectUrl='https://DDWImgithub.com/shabbiryk/Private_EHT/tree/main/ehrBlockchain'
           />
           <ProjectItem
             title='Dream Date World'
